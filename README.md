@@ -1,11 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=hexcode&text=zeromok&fontColor=B5B4B4)
 
 
-### Hi there 👋
+### Hi there 😁 
 
-<imgsrc="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=#000000"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=#2C2255"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=#007ACC"/>
 
-<imgsrc="https://img.shields.io/badge/-Spring-green?style=flat-square&logo=HTML5&logoColor=white"/>
+
 
 
 
