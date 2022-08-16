@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=hexcode&text=Hithere😁&fontColor=B5B4B4)
+![header](https://capsule-render.vercel.app/api?type=soft&color=hexcode&text=Hello my github😁&fontColor=B5B4B4)
 
 
 ### Hi there 😁 
