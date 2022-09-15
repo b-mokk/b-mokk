@@ -2,7 +2,7 @@
 
 
 
- ## <div align="center">__💻 Computer Environment</div>💻__ 
+ ## <div align="center">__💻 Computer Environment 💻__ </div>
  
 <img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
 
