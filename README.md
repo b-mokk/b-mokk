@@ -4,7 +4,7 @@
 
  ## <div align="center">__💻 Computer Environment 💻__ </div>
  
-<img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=white"/>
+<div align="center"><img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=white"/></div>
 
 <br>
 <br>
