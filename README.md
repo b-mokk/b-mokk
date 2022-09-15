@@ -1,4 +1,4 @@
-<div align="center">![header](https://capsule-render.vercel.app/api?type=Cylinder&theme=gruvbox&text=Welcome_MyGitHub&fontColor=B5B4B4&fontSize=30)</div>
+<div align="center"> ![header](https://capsule-render.vercel.app/api?type=Cylinder&theme=gruvbox&text=Welcome_MyGitHub&fontColor=B5B4B4&fontSize=30) </div>
 
 
  ## <div align="center">__💻 Computer Environment 💻__</div>
