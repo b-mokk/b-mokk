@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&theme=gruvbox&text=Welcome_MyGitHub&fontColor=B5B4B4&fontSize=30)
 
-<style>
+<style type="text/css">
     .title, .content {
         text-align: center;
     }
