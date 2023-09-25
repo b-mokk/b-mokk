@@ -9,7 +9,8 @@ font-style: normal;
 .markdown-body {
     font-family: 'Pretendard-Regular' !important;
 }
-<div id="body" align="center">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
+<div id="body" align="center" >
 <div class="title" ><h2>💻 Operation System 💻</h2></div>
 <div class="content">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a> &nbsp;
