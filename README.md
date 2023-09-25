@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&theme=gruvbox&text=Welcome_MyGitHub&fontColor=B5B4B4&fontSize=30)
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
-<div id="body" align="center" class="pre">
+<div id="body" align="center" style="font-family: 'Pretendard Medium'">
 <div class="title" ><h2>💻 Operation System 💻</h2></div>
 <div class="content">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a> &nbsp;
