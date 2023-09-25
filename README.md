@@ -1,28 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&theme=gruvbox&text=Welcome_MyGitHub&fontColor=B5B4B4&fontSize=30)
 
-[//]: # (@font-face {)
-
-[//]: # (font-family: 'Pretendard-Regular';)
-
-[//]: # (src: url&#40;'https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff'&#41; format&#40;'woff'&#41;;)
-
-[//]: # (font-weight: 400;)
-
-[//]: # (font-style: normal;)
-
-[//]: # (})
-
-[//]: # (.markdown-body {)
-
-[//]: # (    font-family: 'Pretendard-Regular' !important;)
-
-[//]: # (})
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
-<style type="text/css">
-    .pre {
-    font-family: "Pretendard Medium";
-    }
-</style>
 <div id="body" align="center" class="pre">
 <div class="title" ><h2>💻 Operation System 💻</h2></div>
 <div class="content">
