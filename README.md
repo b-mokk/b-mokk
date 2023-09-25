@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Cylinder&theme=gruvbox&text=Welcome_MyGitHub&fontColor=B5B4B4&fontSize=30)
+
 <style>
     .title, .content {
         text-align: center;
@@ -9,8 +11,6 @@
         font-style: normal;
     }
 </style>
-![header](https://capsule-render.vercel.app/api?type=Cylinder&theme=gruvbox&text=Welcome_MyGitHub&fontColor=B5B4B4&fontSize=30)
-
 <div id="body">
 <div class="title" ><h2>💻 Operation System 💻</h2></div>
 <div class="content">
