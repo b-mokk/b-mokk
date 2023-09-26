@@ -1,17 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&theme=gruvbox&text=Welcome_MyGitHub&fontColor=B5B4B4&fontSize=30)
 
 <div id="body" align="center">
-<div class="title" ><h2>💻 Operation System 💻</h2></div>
+<h2>💻 Operation System 💻</h2>
 <div class="content">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/windows10-0078D4?style=for-the-badge&logo=windows10&logoColor=white"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a> &nbsp;
 </div>
 <br>
-<div class="title"><h2>🤖 Stack 🤖</h2></div>
+<h2>🤖 Stack 🤖</h2>
 <div class="content" >
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a> &nbsp;
@@ -31,7 +30,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a> &nbsp;
 </div>
 <br>
-<div class="title" ><h2>🛠Tools🛠</h2></div>
+<h2>🛠Tools🛠</h2>
 <div class="content">
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=#000000"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=#2C2255"/></a> &nbsp;
@@ -43,5 +42,6 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/datagrip-000000?style=for-the-badge&logo=datagrip&logoColor=white"></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"></a> &nbsp;
 </div>
 </div>
