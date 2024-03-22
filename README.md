@@ -1,5 +1,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=zeromok)](https://solved.ac/zeromok)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeromok)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div id="body" align="center">
 <h2>💻 Operation System 💻</h2>
