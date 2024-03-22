@@ -1,6 +1,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=zeromok)](https://solved.ac/zeromok)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeromok)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeromok)](https://github.com/anuraghazra/github-readme-stats&hide_progress=true)
 
 
 <div id="body" align="center">
